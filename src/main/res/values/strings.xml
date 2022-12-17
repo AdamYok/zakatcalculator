@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Zakat Itu Wajib.Made by BobTheBuilder</string>
+    <string name="About_text"><a href="">Source Code Link</a></string>
+    <string name="developer">Name: NUR ADAM BIN ABDUL RAHIM</string>
+    <string name="devId">Student ID: 2020834612</string>
+    <string name="group">Group: RCS2515A</string>
+</resources>
